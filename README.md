@@ -28,16 +28,20 @@ https://killing-ghost-default-rtdb.firebaseio.com/game1.json
 
 Imagem de fundo
 
-<img src="">
+<img src="Game1/images/imgFundoGame1.png">
 
 Personagem principal
 
-<img src="">
+<img src="Game1/images/personagem.png">
 
 Bullet
 
-<img src="">
+<img src="Game1/images/bullet.png">
 
 Personagem Fantasma
 
-<img src="">
+<img src="Game1/images/personagemFantasma.png">
+
+Vida do personagem
+
+<img src="Game1/images/vida.png">
